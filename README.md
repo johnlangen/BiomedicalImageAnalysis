@@ -1,4 +1,7 @@
 
+All .ipynb files, so can run in Google Colab
+
+
 Contribution: who is responsible for which files
 
 John Langenderfer
