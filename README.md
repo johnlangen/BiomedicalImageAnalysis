@@ -9,4 +9,4 @@ Scott Winters
 - responsible for
 
 Avery Merlo
-- responsible for
+- responsible for Xception.ipynb
