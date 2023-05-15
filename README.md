@@ -9,7 +9,7 @@ John Langenderfer
 - where basicDensent containing no normalization, data augmentation, ect. 
 
 Scott Winters
-- responsible for InceptionRestNetV2
+- responsible for InceptionResNetV2
 
 Avery Merlo
 - responsible for Xception.ipynb
